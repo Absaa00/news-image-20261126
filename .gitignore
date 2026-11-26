@@ -1,0 +1,14 @@
+# news-image-20261126 — local artefacts, never committed
+__pycache__/
+*.pyc
+.pytest_cache/
+output/
+entry.png
+*.png
+!badge.png
+.DS_Store
+Thumbs.db
+*.log
+*.tmp
+.venv/
+venv/
